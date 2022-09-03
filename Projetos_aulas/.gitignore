@@ -1,0 +1,8 @@
+*.Txt
+
+*.Class
+
+*.xml
+pom.xml
+
+*.json
